@@ -1,5 +1,7 @@
 import os, sys
 # 通过sys获取系统的环境
+import allure
+
 sys.path.append(os.getcwd())
 import pytest
 import yaml
@@ -25,11 +27,13 @@ class Test_Android:
         # 关闭驱动对象
         self.driver.quit()
 
+    @allure.step(title="测试步骤001")
     @pytest.mark.parametrize("content", data_yaml())
     def test_one(self, content):
         self.set_page.set_serch()
         self.set_page.set_send(content)
         self.set_page.set_back()
+        print("\n阁下何不乘风起,扶摇之上九万里")
 
 
 

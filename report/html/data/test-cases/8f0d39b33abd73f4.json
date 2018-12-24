@@ -1,0 +1,85 @@
+{
+  "uid" : "8f0d39b33abd73f4",
+  "name" : "Test_Android.test_one[2]",
+  "fullName" : "test_setting.Test_Android.test_one[2]",
+  "historyId" : "91b3f97193941a93d1b61961d15e10bc",
+  "time" : {
+    "start" : 1545640006651,
+    "stop" : 1545640013602,
+    "duration" : 6951
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "测试步骤001",
+      "time" : {
+        "start" : 1545640006652,
+        "stop" : 1545640013602,
+        "duration" : 6950
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-OJQGNGRR"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "15112-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_setting"
+  }, {
+    "name" : "testClass",
+    "value" : "test_setting"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_Android.test_one[2]"
+  }, {
+    "name" : "package",
+    "value" : "test_setting"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8f0d39b33abd73f4.json",
+  "parameterValues" : [ ]
+}

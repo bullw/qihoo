@@ -1,0 +1,44 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545639989719" stop="1545640013602">
+  <name>test_setting</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545639989719" status="passed" stop="1545640006650">
+      <name>Test_Android.test_one[1]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15112-MainThread"/>
+        <label name="host" value="LAPTOP-OJQGNGRR"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1545639998492" status="passed" stop="1545640006649">
+          <name>测试步骤001</name>
+          <title>测试步骤001</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1545640006651" status="passed" stop="1545640013602">
+      <name>Test_Android.test_one[2]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15112-MainThread"/>
+        <label name="host" value="LAPTOP-OJQGNGRR"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1545640006652" status="passed" stop="1545640013602">
+          <name>测试步骤001</name>
+          <title>测试步骤001</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

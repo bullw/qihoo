@@ -1,0 +1,29 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Test_Android.test_one[1]",
+    "uid" : "8b19c5c142a68233",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1545639989719,
+      "stop" : 1545640006650,
+      "duration" : 16931
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Test_Android.test_one[2]",
+    "uid" : "8f0d39b33abd73f4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1545640006651,
+      "stop" : 1545640013602,
+      "duration" : 6951
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

@@ -1,0 +1,33 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_setting",
+    "children" : [ {
+      "name" : "Test_Android.test_one[1]",
+      "uid" : "8b19c5c142a68233",
+      "parentUid" : "9bd6ebe6607ff6143a74e46988b1114f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545639989719,
+        "stop" : 1545640006650,
+        "duration" : 16931
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test_Android.test_one[2]",
+      "uid" : "8f0d39b33abd73f4",
+      "parentUid" : "9bd6ebe6607ff6143a74e46988b1114f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545640006651,
+        "stop" : 1545640013602,
+        "duration" : 6951
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9bd6ebe6607ff6143a74e46988b1114f"
+  } ]
+}

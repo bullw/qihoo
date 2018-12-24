@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-OJQGNGRR",
+    "children" : [ {
+      "name" : "15112-MainThread",
+      "children" : [ {
+        "name" : "Test_Android.test_one[1]",
+        "uid" : "8b19c5c142a68233",
+        "parentUid" : "b5bb9960f5010f8de001abc23b98a21f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1545639989719,
+          "stop" : 1545640006650,
+          "duration" : 16931
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_Android.test_one[2]",
+        "uid" : "8f0d39b33abd73f4",
+        "parentUid" : "b5bb9960f5010f8de001abc23b98a21f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1545640006651,
+          "stop" : 1545640013602,
+          "duration" : 6951
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b5bb9960f5010f8de001abc23b98a21f"
+    } ],
+    "uid" : "4a9449fa107cde2074bf358745c70780"
+  } ]
+}

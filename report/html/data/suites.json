@@ -1,0 +1,33 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_setting",
+    "children" : [ {
+      "name" : "Test_Android.test_one[1]",
+      "uid" : "8b19c5c142a68233",
+      "parentUid" : "b91e7f647e60152dae71e0cfda84f81b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545639989719,
+        "stop" : 1545640006650,
+        "duration" : 16931
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test_Android.test_one[2]",
+      "uid" : "8f0d39b33abd73f4",
+      "parentUid" : "b91e7f647e60152dae71e0cfda84f81b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545640006651,
+        "stop" : 1545640013602,
+        "duration" : 6951
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b91e7f647e60152dae71e0cfda84f81b"
+  } ]
+}
